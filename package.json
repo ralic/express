@@ -68,7 +68,7 @@
     "express-session": "~1.13.0",
     "jade": "~1.11.0",
     "method-override": "~2.3.5",
-    "morgan": "~1.6.1",
+    "morgan": "~1.10.0",
     "multiparty": "~4.1.2",
     "vhost": "~3.0.1"
   },
